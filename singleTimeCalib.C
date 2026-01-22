@@ -1,4 +1,6 @@
 // Position calibration  for a single PMT
+// Kevin Eisenberg, September 2025
+// For use in FRIB e23033
 
 void singleTimeCalib(int x, int y){
 
